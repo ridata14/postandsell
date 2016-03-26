@@ -14,16 +14,58 @@
  *= require_self
  */
 
+.logo-branding {
+
+	margin-bottom: 0px;
+	padding-bottom: 0px;
+	color: #999;
+}
+
+h1 b {
+
+	color: #3399ff;
+}
+
+.content-link {
+
+	position: relative;
+	left: 30px;
+}
 
 .container {
 
 	margin: 10px 10% 10px 10%;
 }
 
+.container-form {
+
+	padding: 20px 0 20px 0;
+}
+
+.container-form-content {
+
+	padding: 3px 3px 3px 3px;
+	margin: 3px 3px 3px 3px;
+}
+
+.container-navbar {
+
+	margin: 10px 10% 0px 10%;
+}
+
+.container-posting {
+
+	margin-top: 5%;
+}
+
+.container-content {
+
+	margin: 0 10% 10px 10%;
+}
+
 a:hover {
 
 	color: red;
-	font-weight: bold;
 	text-decoration: none;
 }
 
@@ -31,4 +73,12 @@ a:active {
 
 	color: red;
 	text-decoration: none;
+}
+
+.container-header {
+
+	height: 31px;
+	width: 100%;
+	background-color: #3399ff;
+	color: white;	
 }
