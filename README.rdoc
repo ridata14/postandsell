@@ -1,28 +1,5 @@
-== README
+An AD Posting site similar to the likes of Craigslist, OLX etc. 
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+With the use of Ruby on Rails 4.2 as a development tool. Trying to create a similar aforementioned site with the minimal use of existing gems possible.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+Shoot me an email for questions, comments & suggestions > ridata14@gmail.com
