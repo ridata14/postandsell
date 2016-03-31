@@ -14,6 +14,9 @@
  *= require_self
  */
 
+
+
+
 .logo-branding {
 
 	margin-bottom: 0px;
@@ -62,6 +65,11 @@ h1 b {
 .container-content {
 
 	margin: 0 10% 10px 10%;
+}
+
+.container-posting-photo {
+
+	margin: 10px 0px 20px 0px;
 }
 
 a:hover {
