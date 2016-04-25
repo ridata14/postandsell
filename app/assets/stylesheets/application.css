@@ -14,7 +14,10 @@
  *= require_self
  */
 
+.thumbnail {
 
+	min-height: 350px;
+}
 
 
 .logo-branding {
